@@ -1,0 +1,13 @@
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddTables.resources
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.Cache
+C:\HugeBarter Dev\Source\Sandbox\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddTables1.resources
